@@ -20,17 +20,17 @@ The structure will be iteratively revised to make sharing and systemizing ideas 
 
 ## Proposals
 
-The `proposals/short-term/` directory is devoted to practical concerns about the effects of AI on our work, professional roles, and institutional structures. Due to high unpredictability `proposals/` section should contain only short-term ideas. Broader medium- and long-term reflections belong in the corresponding opinion directories. Please restrain more idealistic views for the `opinions/`section.
+The `proposals/short-term/` directory is devoted to practical concerns about the effects of AI on our work, professional roles, and institutional structures. Due to high unpredictability `proposals/` section should contain only short-term ideas. Broader medium- and long-term reflections belong in the corresponding opinion directories. Please restrain your more idealistic views for the `opinions/`section.
 
-Contributions should identify relevant problems, worries, or open questions, such as:
+Contributions should identify relevant problems, worries, and/or open questions, such as:
 
-- Where current institutional structures may no longer be adequate, and what would need to change for them to remain viable.
-- How researchers can maintain the relevance of their work and redefine their professional roles.
-- How the role, objectives, and expectations of a PhD may need to change (both for PhD students and supervisors).
-- What guidelines or limits should apply to AI use in research and teaching.
+- Where current institutional structures are no longer be adequate, and what needs to change for them to be useful.
+- How researchers can temporarily maintain the relevance of their work and redefine their roles.
+- How the role, objectives, and expectations of a PhD needs to change (both for PhD students and supervisors).
+- What guidelines or limits should apply to AI use in research, teaching, studying.
 - How teaching and training should adapt.
 
-Personal suggestions for resolving these problems are welcome but optional. Clearly identifying a concern or an unresolved question is itself a useful contribution.
+Personal suggestions for resolving these problems are welcome but optional. Clearly identifying a concern or an unresolved question is itself a necessary contribution.
 
 ### How to contribute
 
@@ -39,7 +39,7 @@ Create a subfolder with your name under `proposals/short-term/` as `proposals/sh
 - **`main.md`** — State your assessment of the current situation, your relevant concerns, and the problems or open questions you would like the group to address. Include proposed solutions if you have them. Begin with a short bullet list of your main points, then develop your reasoning in the sections below.
 - **`query.md`** — Other contributors can suggest responses to your open questions, comment on your proposed solutions, and raise additional questions. Use the template below.
 
-For example, Alice creates the folder `proposals/short-term/Alice/` with files `main.md` which is modified solely by Alice and an empty `query.md` such that it is mainly written with contributions of Not-Alice (Alice may only respond to the questions). 
+For example, Alice creates the folder `proposals/short-term/Alice/` with files `main.md` which is modified solely by Alice and an empty `query.md` such that it is mainly written with contributions of Not-Alice (Alice may only respond to the questions).
 
 ## Overviews
 
