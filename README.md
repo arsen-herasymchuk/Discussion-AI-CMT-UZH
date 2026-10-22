@@ -2,7 +2,7 @@
 
 A shared repository for thoughts, questions, opinions, and proposals concerning AI, its use. It should provide a systematic basis for summarizing previous Journal Club discussions, planning future meetings, and preparing concrete points to raise with external entities about the short-, medium-, and long-term implications of AI.
 
-Feel free to contribute at your own time.
+Feel free to write your thoughts via mattermost/email or to contribute here at your own time.
 
 ## Repository structure
 
