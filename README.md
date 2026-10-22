@@ -34,10 +34,12 @@ Personal suggestions for resolving these problems are welcome but optional. Clea
 
 ### How to contribute
 
-Create a subfolder with your name under `proposals/short-term/`, for example `proposals/short-term/your-name/`, containing:
+Create a subfolder with your name under `proposals/short-term/` as `proposals/short-term/your-name/`, containing:
 
 - **`main.md`** — State your assessment of the current situation, your relevant concerns, and the problems or open questions you would like the group to address. Include proposed solutions if you have them. Begin with a short bullet list of your main points, then develop your reasoning in the sections below.
 - **`query.md`** — Other contributors can suggest responses to your open questions, comment on your proposed solutions, and raise additional questions. Use the template below.
+
+For example, Alice creates the folder `proposals/short-term/Alice/` with files `main.md` which is modified solely by Alice and an empty `query.md` such that it is mainly written with contributions of Not-Alice (Alice may only respond to the questions). 
 
 ## Overviews
 
@@ -57,10 +59,11 @@ The `opinions/` section welcomes personal reflections, concerns, arguments, and 
 
 ### How to contribute
 
-Choose the relevant time horizon and create a subfolder with your name, for example `opinions/short-term/your-name/`, containing:
+Choose the relevant time horizon and create a subfolder with your name as `opinions/short-term/your-name/`, containing:
 
 - **`main.md`** — Present your statement or position. Begin with a short bullet list of your main points, then develop your reasoning in the sections below. Include examples or references where useful.
 - **`query.md`** — Other contributors can collect questions, requests for clarification, alternative perspectives, and counterarguments (antitheses) to your statement. These entries will serve as discussion points for the next suitable Journal Club meeting.
+
 
 ## Query file template
 
