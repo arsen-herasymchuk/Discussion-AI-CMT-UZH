@@ -1,0 +1,3 @@
+Within the next 3–5 years:
+It would be useful to have additional ML- and LLM-related projects connected to condensed matter and numerical physics (chip manufacturing, LLM compression, etc.).
+It would also be useful to have an overall plan for such unpredictable times.

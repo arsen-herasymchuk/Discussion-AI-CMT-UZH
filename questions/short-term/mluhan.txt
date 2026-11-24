@@ -1,0 +1,7 @@
+Right now:
+For Titus and the dean:
+How will our training change as LLMs are integrated into our day-to-day research?
+Should we carry out implementations, proofs, and analyses ourselves? How should we balance this with the speed of research?
+How will the PhD requirements change?
+For Anthropic, OpenAI, and other AI companies:
+How are you ensuring that the internet does not become unusable in the next few months due to the volume of bots, hacking, and automated activity? Human-generated content is limited by the number of humans; what limits bot-generated content?

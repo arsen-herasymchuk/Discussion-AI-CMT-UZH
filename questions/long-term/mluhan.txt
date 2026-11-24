@@ -1,0 +1,4 @@
+For the Anthropic lead:
+What does the loss function look like? Does a persona emerge from an LLM? How is data accumulated?
+Is a fine-tuned LLM skill generated for each user?
+Which factors matter most for LLM performance: the number of parameters, the amount of training data, the number of layers, the architecture itself, or the training time? What are the cornerstones of the field?
